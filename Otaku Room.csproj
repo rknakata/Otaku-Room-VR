@@ -78,6 +78,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\ChiyaChan\ChiYaChanEmotion.cs" />
     <Compile Include="Assets\Scripts\StreamVideo.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
@@ -437,6 +438,7 @@
     <Compile Include="Assets\VRTK\Scripts\Utilities\VRTK_Simulator.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\ChiyaChan\readme.txt" />
     <None Include="Assets\SteamVR\InteractionSystem\Core\Shaders\SeeThru.shader" />
     <None Include="Assets\SteamVR\InteractionSystem\Core\Shaders\Silhouette.shader" />
     <None Include="Assets\SteamVR\InteractionSystem\Hints\Shaders\ControllerButtonHints.shader" />
